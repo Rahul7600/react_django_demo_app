@@ -1,2 +1,3 @@
 # react_django_demo_app
-A demo app for React and Django Deploymentt
+A demo app for React and Django Deployment
+Best app
